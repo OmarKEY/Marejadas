@@ -18,5 +18,47 @@ public class Oseano extends Dato{
 
     
     }
+
+    /**
+     * @return the hm0
+     */
+    public double getHm0() {
+        return hm0;
+    }
+
+    /**
+     * @param hm0 the hm0 to set
+     */
+    public void setHm0(double hm0) {
+        this.hm0 = hm0;
+    }
+
+    /**
+     * @return the tz
+     */
+    public double getTz() {
+        return tz;
+    }
+
+    /**
+     * @param tz the tz to set
+     */
+    public void setTz(double tz) {
+        this.tz = tz;
+    }
+
+    /**
+     * @return the te
+     */
+    public double getTe() {
+        return te;
+    }
+
+    /**
+     * @param te the te to set
+     */
+    public void setTe(double te) {
+        this.te = te;
+    }
     
 }
